@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476434469624",
+    "project_id": "fakeedu-b8de9",
+    "storage_bucket": "fakeedu-b8de9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476434469624:android:79e7798c22f998c3bc210d",
+        "android_client_info": {
+          "package_name": "com.example.fakeedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476434469624-s33d48m6rkoc4tqa2sar1r6o0agv5sbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2IrIZX-RpNvmLik4hYeXTQ2QerTYk4Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476434469624-s33d48m6rkoc4tqa2sar1r6o0agv5sbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
